@@ -1,8 +1,8 @@
 # 2023 Lange Symposium on Computational Statistics
 
-## Friday, February 3, 2023 at UCLA
+## February 3, 2023 at UCLA
 
-**9:30am - 5:00pm**
+**9:30 am - 5:00 pm**
 
 We are pleased to announce our Third Annual Lange Symposium. This year's topic was Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
@@ -44,17 +44,6 @@ For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lang
 We offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
 
 Travel awards cover travel within the U.S., meals, and lodging.
-
-### Accommodation
-
-If you need accommodation, nearby options include the following local hotels.
-
-- [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
-(Location of the symposium.)
-- [UCLA Guest House](http://guesthouse.ucla.edu/)
-- [Palihotel Westwood Village](https://www.palisociety.com/hotels/westwood-village)
-- [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
-- [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
 ### Future Events
 The [2024 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA in early 2024.
