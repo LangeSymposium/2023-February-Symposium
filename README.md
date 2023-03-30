@@ -56,6 +56,9 @@ If you need accommodation, nearby options include the following local hotels.
 - [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
 
+### Future Events
+The [2024 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA in early 2024.
+
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/) (with links to workshop video, slides, and software)
