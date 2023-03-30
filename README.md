@@ -1,4 +1,4 @@
-# Computational Statistics
+# 2023 Lange Symposium on Computational Statistics
 
 ## Friday, February 3, 2023 at UCLA
 
