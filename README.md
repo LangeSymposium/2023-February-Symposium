@@ -60,6 +60,7 @@ If you need accommodation, nearby options include the following local hotels.
 The [2024 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA in early 2024.
 
 ### Past Events
+### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/) (with links to workshop video, slides, and software)
-- [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/)
+- [2022 Lange Symposium Biomedical Data Science Workshop](https://langesymposium.github.io/2022-July-Workshop/)
+- [2022 October Lange Symposium on Statistical Genetics](https://langesymposium.github.io/2022-October-Symposium/)
