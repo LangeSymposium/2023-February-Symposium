@@ -46,7 +46,7 @@ We offer travel awards for attendees who will further the goal of increasing the
 Travel awards cover travel within the U.S., meals, and lodging.
 
 ### Future Events
-The [2024 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA on Junuary 26, 2024.
+The [2025 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA on Junuary 27, 2025.
 
 ### Past Events
 
